@@ -6,8 +6,7 @@ by Amy , Annie Sonna, James  , Suzi Rubino.
 
 
 ##Description
-
-This webpage is to help users to generate a checklist based on the selected inputs. Once a user generated a checklist, he/she may add additional checkboxes of their own.
+A travel planner site that is to help users to generate a checklist based on the selected inputs. Once a user generated a checklist, he/she may add additional checkboxes of their own.
 
 
 ###Objective from Epicodus page
